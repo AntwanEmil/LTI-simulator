@@ -1,0 +1,19 @@
+mcc -C -o LTI_simulator -W WinMain:LTI_simulator -T link:exe -d F:\LTI_simulator\for_testing -v F:\untitled1.m -a F:\untitled1.m 
+Compiler version: 6.1 (R2015b)
+
+Dependency analysis by REQUIREMENTS.
+
+[Warning: Adding path "F:" to Compiler path instance.] 
+[] 
+Parsing file "F:\untitled1.m"
+	(Referenced from: "Compiler Command Line").
+Deleting 0 temporary MEX authorization files.
+Generating file "F:\LTI_simulator\for_testing\readme.txt".
+Packaging...
+Adding custom icon C:\Program Files\MATLAB\R2015b\toolbox\compiler\Resources\default_icon.ico to F:\LTI_simulator\for_testing\LTI_simulator.exe.
+Attempting to embed the CTF archive into the application F:\LTI_simulator\for_testing\LTI_simulator.exe.
+Finished embedding CTF archive. Deleting the external CTF archive.
+Creating the bundle...
+Web based installer created at F:\LTI_simulator\for_redistribution\MyAppInstaller_web.exe.
+Packaging complete.
+Elapsed packaging time was: 3 minutes and 33 seconds.
